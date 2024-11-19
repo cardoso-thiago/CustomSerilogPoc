@@ -1,0 +1,12 @@
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/bin/Debug/net8.0/CustomSerilogLib.deps.json
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/bin/Debug/net8.0/CustomSerilogLib.dll
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/bin/Debug/net8.0/CustomSerilogLib.pdb
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.csproj.AssemblyReference.cache
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.AssemblyInfoInputs.cache
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.AssemblyInfo.cs
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.csproj.CoreCompileInputs.cache
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.dll
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/refint/CustomSerilogLib.dll
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/CustomSerilogLib.pdb
+/home/cardoso/HDD/Projetos/dotnet/CustomSerilogPoc/CustomSerilogLib/obj/Debug/net8.0/ref/CustomSerilogLib.dll
